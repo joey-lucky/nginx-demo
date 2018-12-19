@@ -1,0 +1,55 @@
+2018/12/19 22:10:42 [emerg] 528#15988: CreateDirectory() "D:\project\my-project\nginx-test/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2018/12/19 22:11:04 [emerg] 15084#7388: CreateDirectory() "D:\project\my-project\nginx-test/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2018/12/19 22:11:39 [emerg] 20556#1896: CreateDirectory() "D:\project\my-project\nginx-test/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2018/12/19 22:12:18 [emerg] 13748#2720: CreateDirectory() "D:\project\my-project\nginx-test/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2018/12/19 22:12:56 [emerg] 4148#9012: CreateDirectory() "D:\project\my-project\nginx-test/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2018/12/19 22:14:04 [error] 6400#14444: *2 CreateFile() "D:\project\my-project\nginx-test/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:7000", referrer: "http://localhost:7000/"
+2018/12/19 22:14:07 [error] 6400#14444: *3 CreateFile() "D:\project\my-project\nginx-test/html/a" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /a HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:14:32 [notice] 12944#4292: signal process started
+2018/12/19 22:14:36 [error] 10020#17320: *1 CreateFile() "D:/ba" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /a HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:14:54 [notice] 12784#9144: signal process started
+2018/12/19 22:14:58 [error] 16372#20360: *1 CreateFile() "D:\project\my-project\nginx-test/html/a" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /a HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:17:31 [notice] 9156#12480: signal process started
+2018/12/19 22:17:36 [error] 11856#19056: *1 CreateFile() "D:\project\my-project\nginx-test/html/a" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /a HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:18:09 [notice] 14612#14860: signal process started
+2018/12/19 22:18:12 [error] 724#5092: *1 CreateFile() "D:/a.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /a HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:18:46 [notice] 3212#6128: signal process started
+2018/12/19 22:18:49 [error] 20316#20564: *1 CreateFile() "D:/a.html/a" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /a HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:20:00 [emerg] 18196#13856: unexpected "}" in D:/project/my-project/nginx-test/conf/nginx.conf:24
+2018/12/19 22:20:21 [emerg] 17564#19992: invalid return code "xx" in D:/project/my-project/nginx-test/conf/nginx.conf:23
+2018/12/19 22:20:26 [emerg] 17288#5068: invalid return code "xx" in D:/project/my-project/nginx-test/conf/nginx.conf:23
+2018/12/19 22:20:27 [emerg] 9972#20400: invalid return code "xx" in D:/project/my-project/nginx-test/conf/nginx.conf:23
+2018/12/19 22:20:27 [emerg] 16304#16104: invalid return code "xx" in D:/project/my-project/nginx-test/conf/nginx.conf:23
+2018/12/19 22:21:11 [notice] 8048#1040: signal process started
+2018/12/19 22:21:16 [emerg] 13504#6392: invalid return code "asdasd" in D:/project/my-project/nginx-test/conf/nginx.conf:23
+2018/12/19 22:22:41 [notice] 15156#8756: signal process started
+2018/12/19 22:22:42 [emerg] 8060#7816: duplicate location "/a/b" in D:/project/my-project/nginx-test/conf/nginx.conf:30
+2018/12/19 22:22:58 [emerg] 8728#14232: duplicate location "/a/b" in D:/project/my-project/nginx-test/conf/nginx.conf:30
+2018/12/19 22:23:14 [emerg] 11096#3388: duplicate location "/a/b" in D:/project/my-project/nginx-test/conf/nginx.conf:30
+2018/12/19 22:26:25 [notice] 13520#20904: signal process started
+2018/12/19 22:30:12 [notice] 8800#16484: signal process started
+2018/12/19 22:31:38 [notice] 18864#12928: signal process started
+2018/12/19 22:34:27 [notice] 14240#6652: signal process started
+2018/12/19 22:34:28 [emerg] 16960#20184: unknown directive "//开启目录浏览功能；" in D:/project/my-project/nginx-test/conf/nginx.conf:45
+2018/12/19 22:35:36 [notice] 17404#7220: signal process started
+2018/12/19 22:35:54 [error] 13324#16896: *3 CreateFile() "D:\project\my-project\nginx-test/html/aa" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aa HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:37:38 [notice] 7188#17996: signal process started
+2018/12/19 22:37:39 [emerg] 19448#9448: unknown directive "redirect" in D:/project/my-project/nginx-test/conf/nginx.conf:23
+2018/12/19 22:40:36 [notice] 14364#12260: signal process started
+2018/12/19 22:41:09 [notice] 724#15924: signal process started
+2018/12/19 22:45:26 [error] 8452#8700: *21 CreateFile() "D:\project\my-project\nginx-test/html/g" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /g HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:45:31 [error] 8452#8700: *22 CreateFile() "D:\project\my-project\nginx-test/html/g/x" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /g/x HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:45:36 [error] 8452#8700: *23 CreateFile() "D:\project\my-project\nginx-test/html/g/x" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /g/x HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:45:37 [notice] 21336#9412: signal process started
+2018/12/19 22:45:40 [error] 13248#16288: *1 rewrite or internal redirection cycle while processing "/f.html", client: 127.0.0.1, server: localhost, request: "GET /g/x HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:45:40 [error] 13248#16288: *2 rewrite or internal redirection cycle while processing "/f.html", client: 127.0.0.1, server: localhost, request: "GET /g/x HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:45:41 [error] 13248#16288: *3 rewrite or internal redirection cycle while processing "/f.html", client: 127.0.0.1, server: localhost, request: "GET /g/x HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:45:41 [error] 13248#16288: *4 rewrite or internal redirection cycle while processing "/f.html", client: 127.0.0.1, server: localhost, request: "GET /g/x HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:45:41 [error] 13248#16288: *5 rewrite or internal redirection cycle while processing "/f.html", client: 127.0.0.1, server: localhost, request: "GET /g/x HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:45:47 [notice] 6024#1216: signal process started
+2018/12/19 22:46:00 [error] 7308#7108: *1 rewrite or internal redirection cycle while processing "/f.html", client: 127.0.0.1, server: localhost, request: "GET /g/x HTTP/1.1", host: "localhost:7000"
+2018/12/19 22:47:06 [notice] 6612#5700: signal process started
+2018/12/19 22:52:33 [notice] 12248#20208: signal process started
+2018/12/19 22:57:59 [notice] 5556#4336: signal process started
+2018/12/19 22:58:30 [notice] 16916#17356: signal process started
+2018/12/19 22:58:52 [notice] 15540#3156: signal process started
